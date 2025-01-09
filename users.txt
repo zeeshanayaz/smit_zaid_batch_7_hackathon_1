@@ -1,0 +1,3 @@
+user_name, password, user_type
+usman,usman,user
+zeeshanayaz,123456,admin
